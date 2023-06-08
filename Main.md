@@ -24,9 +24,12 @@ It's important to note that while add-ons can significantly enhance your Minecra
 # Benefits of Skript Add-ons
 Skript add-ons offer a multitude of benefits for server owners and developers, including:
 
-# Time-saving: Add-ons provide pre-written scripts that can be easily implemented into your server without the need for extensive coding. This saves time and effort, allowing you to focus on other aspects of server management.
+# Time-saving: 
+Add-ons provide pre-written scripts that can be easily implemented into your server without the need for extensive coding. This saves time and effort, allowing you to focus on other aspects of server management.
 Diverse functionality: Skript add-ons cover a wide range of functionalities, such as custom game modes, mini-games, economy systems, and much more. They enable you to add unique and engaging gameplay elements to your Minecraft server.
-# Community-driven: Skript has a dedicated and active community that creates and shares add-ons. This means you can find a vast library of add-ons to suit various server styles and preferences. Additionally, you can seek support and assistance from the community if you encounter any issues with the add-ons.
-# Flexibility and customization: The scripts within add-ons can be modified and tailored to fit your server's specific requirements. This allows you to create a truly unique Minecraft experience for your players.
+# Community-driven: 
+Skript has a dedicated and active community that creates and shares add-ons. This means you can find a vast library of add-ons to suit various server styles and preferences. Additionally, you can seek support and assistance from the community if you encounter any issues with the add-ons.
+# Flexibility and customization: 
+The scripts within add-ons can be modified and tailored to fit your server's specific requirements. This allows you to create a truly unique Minecraft experience for your players.
 # Conclusion
 Skript is a powerful Minecraft plugin that opens up endless possibilities for customizing and enhancing your Minecraft server. With its intuitive scripting language and the ability to download add-ons with pre-written scripts, you can easily introduce exciting gameplay mechanics and features to keep your players engaged. Explore the vibrant Skript community, download reputable add-ons, and unlock the full potential of your Minecraft server
